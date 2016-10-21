@@ -1,0 +1,22 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "description": "Immutable log client validation function",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "main": "lib/immutable-require-valid-log-client.js",
+  "name": "immutable-require-valid-log-client",
+  "repository": "warncke/immutable-require-valid-log-client",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.0"
+}

@@ -6,7 +6,7 @@
   "description": "Immutable log client validation function",
   "devDependencies": {
     "chai": "4.1.2",
-    "mocha": "3.5.0"
+    "mocha": "3.5.1"
   },
   "directories": {
     "test": "test"
@@ -18,5 +18,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.12"
+  "version": "0.1.13"
 }
